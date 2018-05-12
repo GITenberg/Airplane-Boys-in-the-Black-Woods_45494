@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43315
 description: '"The Airplane Boys accidentally bump into a new mystery which is only
   solved after many pages of excitement in this seventh book of air adventures."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45494#Airplane-Boys-in-the-Black-Woods
 gutenberg_issued: '2014-04-25'
 gutenberg_type: Text
 identifiers:
